@@ -147,7 +147,7 @@
 "HFo-cy-zxI.title" = "Rechtschreibung und Grammatik anzeigen";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
-"Hc4-Pm-7tu.title" = "frontmost.app ignorieren";
+"Hc4-Pm-7tu.title" = "vorderste.app ignorieren";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
 "HyV-fh-RgO.title" = "Ansicht";
@@ -213,7 +213,7 @@
 "OY7-WF-poV.title" = "Minimieren";
 
 /* Class = "NSMenuItem"; title = "Baseline"; ObjectID = "OaQ-X3-Vso"; */
-"OaQ-X3-Vso.title" = "Basislinie";
+"OaQ-X3-Vso.title" = "Grundlinie";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "OhY-VJ-Tcc"; */
 "OhY-VJ-Tcc.title" = "Fenster";
@@ -359,7 +359,7 @@
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
 "fQ6-M2-dr6.title" = "Middle beenden";
 
-/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
+/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Nach Updates suchen…";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
@@ -491,17 +491,17 @@
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
 "z6F-FW-3nz.title" = "Ersetzungen anzeigen";
 
-"Conflict with macOS three finger drag" = "Konflikt mit macOS Drei-Finger-Bewegen";
+"Conflict with macOS three finger drag" = "Konflikt mit macOS 'Drei-Finger-Bewegen'";
 
 "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Die Geste mit drei Fingern könnte verhindern, dass die macOS-Funktion zum Ziehen mit drei Fingern ordnungsgemäß funktioniert. Sie können eine andere Geste auswählen oder das Bewegen mit drei Fingern in den macOS-Systemeinstellungen deaktivieren.";
 
 "OK" = "OK";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Lösen, wenn Trackpad-Berührungen entfernt werden";
+"Kew-ib-Ihk.title" = "Lösen, wenn Trackpad-Berührungen gelöst werden";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Dies ist nützlich, wenn Sie den Trackpad-Mittelklick zum Schwenken in 3D-Modellierungsanwendungen verwenden. Klicken Sie mit drei Fingern, schwenken Sie mit einem Finger und lassen Sie anschließend das Trackpad los.";
+"p39-0h-R0h.title" = "Dies ist nützlich, wenn Sie den Trackpad-Mittelklick zum Schwenken in 3D-Modellierungsanwendungen verwenden. Klicken mit drei Fingern, Bewegen mit einem Finger und Freigeben durch Lösen der Trackpad-Berührungen.";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
 "gGO-yQ-xCQ.title" = "Fn und Linksklick für Mittelklick verwenden";
